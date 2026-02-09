@@ -37,3 +37,4 @@ jobs:
           plugin_lines_history_limit: 4
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_achievements: yes
